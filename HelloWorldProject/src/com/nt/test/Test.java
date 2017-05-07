@@ -8,16 +8,16 @@ public class Test {
 		System.out.println("Changed By Vikash");
 		System.out.println("hello mere bhai vikash");
 		System.out.println("656565");
-
+<<<<<<< HEAD
 		System.out.println("first update by chandan bhau");
-
+=======
 
 		System.out.println(i);
 
 		System.out.println("updated by raman");
 	    System.out.println("hello i am raman");
  
-
+>>>>>>> branch 'master' of https://github.com/Cks43490/RemoteRepository.git
 		
  
 	}
